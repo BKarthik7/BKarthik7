@@ -1,3 +1,4 @@
+![Header](https://github.com/BKarthik7/BKarthik7/assets/115967163/c261a417-8a2d-4b10-bc43-f63659b5db36)
 # 💫 About Me:
 👋 Hi, I’m B_Karthik<br>👀 I’m interested in reading books and playing badminton.<br>🌱 I’m currently learning programing.<br>📫 How to reach me Email:bangikarthik07@gmail.com
 
