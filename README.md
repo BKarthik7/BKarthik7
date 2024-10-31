@@ -1,8 +1,25 @@
-![Header](https://github.com/BKarthik7/BKarthik7/assets/115967163/c261a417-8a2d-4b10-bc43-f63659b5db36)
-# 💫 About Me:
-👋 Hi, I’m B_Karthik<br>👀 I’m interested in reading books and playing badminton.<br>🌱 I’m currently learning programing.<br>📫 How to reach me Email:bangikarthik7@gmail.com
+![B Karthik](https://github.com/user-attachments/assets/e8d7565e-7c34-4001-bdad-30e26e7be719)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+- 📫 How to reach me **bangikarthik7@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sUKUlR1lSNMe3NmcGd-kbfs1HgpRm_Le/view?usp=drive_link)
+
+- ⚡ Fun fact **Japan has over 200 flavours of Kit Kats. !!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/B_Karthik_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="B_Karthik_7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/BKarthik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="BKarthik7" height="30" width="40" /></a>
+<a href="https://instagram.com/BKarthik25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="BKarthik25" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/B_Karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="B_Karthik" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/bangikarthik7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bangikarthik7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/BKarthik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="BKarthik7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/BKarthik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="BKarthik7" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,java,py,html,css,js,react,angular,ai,xd,bootstrap,postgres,tailwind,bash,express,supabase,nodejs,npm,postman,vscode,git,github,figma,debian,obsidian,vercel,vite&perline=20)](https://skillicons.dev)
 
 [![An image of @bkarthik7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bkarthik7)](https://holopin.io/@bkarthik7)
