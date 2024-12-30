@@ -25,3 +25,7 @@
 [![An image of @bkarthik7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bkarthik7)](https://holopin.io/@bkarthik7)
 
 ![](./profile-3d-contrib/profile-night-view.svg)
+
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=BKarthik7&animated=true" alt="LeetCode Badge" style="width: 50%,height: 50%"/>
+</div>
