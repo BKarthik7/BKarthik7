@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **bangikarthik7@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sUKUlR1lSNMe3NmcGd-kbfs1HgpRm_Le/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Pdd7v3oj0QphEjSj1SbsU3mSqktJD9yv/view?usp=sharing)
 
 - ⚡ Fun fact **Japan has over 200 flavours of Kit Kats. !!**
 
