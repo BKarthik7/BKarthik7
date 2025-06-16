@@ -1,4 +1,4 @@
-![B Karthik](https://github.com/user-attachments/assets/e8d7565e-7c34-4001-bdad-30e26e7be719)
+![B Karthik Banner](https://github.com/user-attachments/assets/c6dbbbb2-9cea-44cc-94ab-3b97ce30652b)
 
 - 📫 How to reach me **bangikarthik7@gmail.com**
 
