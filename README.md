@@ -1,5 +1,7 @@
 ![B Karthik Banner](https://github.com/user-attachments/assets/c6dbbbb2-9cea-44cc-94ab-3b97ce30652b)
 
+- 👨🏻‍💻 Want to know about me [My Portfolio](https://bkarthik7.github.io/Portfolio/)
+
 - 📫 How to reach me **bangikarthik7@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1Pdd7v3oj0QphEjSj1SbsU3mSqktJD9yv/view?usp=sharing)
